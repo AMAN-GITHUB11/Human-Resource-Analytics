@@ -1,1 +1,2 @@
 # Human-Resource-Analytics
+The primary goal here is to work towards the betterment of employees and to make an employee friendly environment. Recently the organisation has started collecting data from employees about their satisfaction towards the company along with internal review of the employee performance. They are interested in the factor/s that affect the satisfaction of employees along with their increased productivity.
